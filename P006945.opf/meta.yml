@@ -1,16 +1,17 @@
-id: opecha:P006945
+id: P006945
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG2818
   title: རང་བཞིན་རྫོགས་པ་ཆེན་པོའི་རང་ཞལ་མངོན་དུ་བྱེད་པའི་གདམས་པ་ཟབ་གསང་སྙིང་པོ
-  volume:
+  author: ''
+  volumes:
     a95374d8dc734e76b30825b7743f05e2:
       image_group_id: I1KG3159
       title: Volume 1 of rang bzhin rdzogs pa chen po'i rang zhal mngon du byed pa'i
         gdams pa zab gsang snying po
       volume_number: 1
       total_pages: 116
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རང་བཞིན་རྫོགས་པ་ཆེན་པོའི་རང་ཞལ་མངོན་དུ་བྱེད་པའི་གདམས་པ་ཟབ་གསང་སྙིང་པོ
   author: ''
